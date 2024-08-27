@@ -1,0 +1,34 @@
+.footer {
+    background-color: #2d2d2d;
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+  }
+  
+  .footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .footer .contact-info {
+    margin-bottom: 1rem;
+  }
+  
+  .footer .social-links {
+    margin-bottom: 1rem;
+  }
+  
+  .footer .social-links a {
+    color: white;
+    margin: 0 0.5rem;
+    text-decoration: none;
+  }
+  
+  .footer .social-links a:hover {
+    color: #aaa;
+  }
+  
+  .footer .copyright {
+    font-size: 0.875rem;
+  }
